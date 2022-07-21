@@ -1,8 +1,8 @@
 terraform {
   backend "remote" {
-    organization = var.organization
+    organization = "example-org-23853c"
     workspaces {
-      name = var.workspace
+      name = "example-org-23853c"
     }
   }
     required_providers {
