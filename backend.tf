@@ -2,7 +2,7 @@ terraform {
   backend "remote" {
     organization = "example-org-23853c"
     workspaces {
-      name = "example-org-23853c"
+      name = "ws-kupGH88MdxuSqcFt"
     }
   }
     required_providers {

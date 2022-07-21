@@ -2,5 +2,5 @@
 # VARIABLES
 ##################################################################################
 
-variable "organization" {}
-variable "workspace" {}
+# variable "organization" {}
+# variable "workspace" {}
